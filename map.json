@@ -1262,10 +1262,6 @@
          "tilecount":2880,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "firstgid":3265,
-         "source":"..\/..\/..\/Downloads\/Pipoya RPG Tileset 32x32\/Pipoya RPG Tileset 32x32\/SampleMap\/foods and more.tsx"
         }],
  "tilewidth":32,
  "type":"map",
