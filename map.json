@@ -250,9 +250,9 @@
                  "value":"CIDA-meeting1"
                 }, 
                 {
-                 "name":"jitsiTrigger",
+                 "name":"jitsiUrl",
                  "type":"string",
-                 "value":"onupdate"
+                 "value":"meet.ffmuc.net"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -296,9 +296,9 @@
                  "value":"CIDA-meeting3"
                 }, 
                 {
-                 "name":"jitsiTrigger",
+                 "name":"jitsiUrl",
                  "type":"string",
-                 "value":"onupdate"
+                 "value":"meet.ffmuc.net"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -319,9 +319,9 @@
                  "value":"CIDA-meeting4"
                 }, 
                 {
-                 "name":"jitsiTrigger",
+                 "name":"jitsiUrl",
                  "type":"string",
-                 "value":"onupdate"
+                 "value":"meet.ffmuc.net"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -342,9 +342,9 @@
                  "value":"CIDA-meeting5"
                 }, 
                 {
-                 "name":"jitsiTrigger",
+                 "name":"jitsiUrl",
                  "type":"string",
-                 "value":"onupdate"
+                 "value":"meet.ffmuc.net"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -365,9 +365,9 @@
                  "value":"CIDAmeeting6"
                 }, 
                 {
-                 "name":"jitsiTrigger",
+                 "name":"jitsiUrl",
                  "type":"string",
-                 "value":"onupdate"
+                 "value":"meet.ffmuc.net"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -388,9 +388,9 @@
                  "value":"CIDABuehne"
                 }, 
                 {
-                 "name":"jitsiTrigger",
+                 "name":"jitsiUrl",
                  "type":"string",
-                 "value":"onupdate"
+                 "value":"meet.ffmuc.net"
                 }],
          "type":"tilelayer",
          "visible":true,
