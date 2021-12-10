@@ -450,6 +450,11 @@
                 {
                  "name":"audioLoop",
                  "type":"string",
+                 "value":"true"
+                }, 
+                {
+                 "name":"playAudio",
+                 "type":"string",
                  "value":"https:\/\/www.terrasound.de\/layout_versionen\/waves_of_motion_terrasound_layout.mp3"
                 }],
          "type":"tilelayer",
