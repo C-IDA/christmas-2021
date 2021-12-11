@@ -257,7 +257,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch?v=rcWdpPC9TgI"
+                 "value":"https:\/\/c-ida.github.io\/christmas-2021\/Weihnachtslieder.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -506,6 +506,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/c-ida.github.io\/christmas-2021\/How-To-Workadventure.pdf"
+                }, 
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -520,6 +525,11 @@
          "name":"start",
          "opacity":1,
          "properties":[
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
+                }, 
                 {
                  "name":"startLayer",
                  "type":"bool",
