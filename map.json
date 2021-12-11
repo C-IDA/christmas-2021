@@ -432,6 +432,17 @@
          "id":31,
          "name":"Weihnachtsmarkt",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.youtube.com\/embed\/live_stream?channel=UCemHIEPAonVUgbothaGQ2JA"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -534,7 +545,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
