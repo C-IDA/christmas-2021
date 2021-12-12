@@ -414,6 +414,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"CIDABuehne"
+                }, 
+                {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"meet.ffmuc.net"
                 }],
          "type":"tilelayer",
          "visible":true,
