@@ -19,7 +19,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/toilet\/toilet.json"
+                 "value":"https:\/\/play.workadventu.re\/@\/bosch\/c-ida\/toilet"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -55,7 +55,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/elevator\/elevator.json"
+                 "value":"https:\/\/play.workadventu.re\/@\/bosch\/c-ida\/elevator"
                 }],
          "type":"tilelayer",
          "visible":true,
