@@ -414,11 +414,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"CIDABuehne"
-                }, 
-                {
-                 "name":"jitsiUrl",
-                 "type":"string",
-                 "value":"meet.ffmuc.net"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -505,7 +500,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/c-ida.github.io\/christmas-2021\/How-To-Workadventure.pdf"
+                 "value":"https:\/\/c-ida.github.io\/christmas-2021\/Agenda_Jahresschluss.pdf"
                 }, 
                 {
                  "name":"silent",
