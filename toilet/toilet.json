@@ -55,7 +55,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/map.json"
+                 "value":"https:\/\/play.workadventu.re\/@\/bosch\/c-ida\/chrismap2021"
                 }],
          "type":"tilelayer",
          "visible":true,
