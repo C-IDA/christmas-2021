@@ -159,6 +159,12 @@
          "id":28,
          "name":"Sessel",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/teams.microsoft.com\/l\/meetup-join\/19%3ameeting_MjA5MzA2MDgtNTI0Ni00NmYzLWJmZDAtZWQ0MTM5ZGMyYjc3%40thread.v2\/0?context=%7b%22Tid%22%3a%220ae51e19-07c8-4e4b-bb6d-648ee58410f4%22%2c%22Oid%22%3a%224e9c639d-8404-4a9b-a2c8-ad2ab5f8dccb%22%7d"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -570,7 +576,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
